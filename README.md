@@ -1,8 +1,8 @@
 # MARC: a robust method for multiple-aspect trajectory classification via space, time, and semantic embeddings
 
-Source code of the paper **MARC: a robust method for multiple-aspect trajectory classification via space, time, and semantic embeddings**, published in International Journal of Geographical Information Science (IJGIS).
+Source code of the paper **MARC: a robust method for multiple-aspect trajectory classification via space, time, and semantic embeddings**, accepted for publication in International Journal of Geographical Information Science (IJGIS).
 
-[ [publication](todo) ] [ [preprint](./preprint.pdf) ] [ [bibtex](./citation.bib) ]
+[ [publication](#) ] [ [preprint](#) ] [ [bibtex](#) ]
 
 ### Setup
 
